@@ -1,0 +1,13 @@
+{
+  "name": "simplelistener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "mois": "node index.js Topic/Mois Mois"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mqtt": "^4.0.1"
+  }
+}
